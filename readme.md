@@ -5,6 +5,6 @@ The best ways are:
 - Sleep
 - Code
 - Repeat
-- Harika
+- Harik
   
 Thank you
