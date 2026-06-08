@@ -6,5 +6,5 @@ The best ways are:
 - Code
 - Repeat
 - Harika
-- Ammulu
+  
 Thank you
