@@ -1,1 +1,12 @@
+# This best github repo out there
 this is readme
+The best ways are:
+- Eat 
+- Sleep
+- Code
+- Repeat
+- Harik
+  
+Thank you
+# Summary
+Its a nice repo
